@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "nishkarshraj0123"
+  description: "Lorem Ipsum"
+  annotations:
+    github.com/project-slug: NishkarshRaj/nishkarshraj01231431241
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "group:default/cpto"
